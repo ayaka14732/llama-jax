@@ -1,3 +1,7 @@
+**NOTE: This project has been moved to [ayaka14732/llama-2-jax](https://github.com/ayaka14732/llama-2-jax), which supports both LLaMA 1 and Llama 2.**
+
+---
+
 # JAX Implementation of LLaMA
 
 This project is the JAX implementation of [LLaMA](https://arxiv.org/abs/1910.13461).
